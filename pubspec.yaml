@@ -1,0 +1,33 @@
+name: calcflutter
+description: A new Flutter project.
+publish_to: 'none' 
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.19.4 <3.0.0'
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  math_expressions: ^2.4.0
+
+  cupertino_icons: ^1.0.2
+  sqflite: ^2.2.6 
+  path_provider: ^2.1.1
+  sqflite_common_ffi: ^2.2.2
+  path: ^1.8.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  
+  flutter_lints: ^2.0.0
+
+lutter:
+
+  uses-material-design: true
+
+ 
